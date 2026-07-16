@@ -330,3 +330,55 @@ a:hover{
     background: white;
     color: black;
 }
+
+
+.faits{
+    background-color: rgb(160, 158, 158, 0.5);
+    border-radius: 5px;
+    margin-top: 2%;
+}
+img{
+    margin-left: 6.5%;
+    margin-top: 4%;
+}
+.faits h2{
+    font-size: 35px;
+    color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: transparent;
+    padding-top: 1%;
+    margin-bottom: 0px;
+}
+.faits p{
+    margin-top: 0px;
+    font-size: 25px;
+    color: white;
+    background-color: transparent;
+    margin-bottom: 0px;
+}
+
+.source a {
+    all: unset;
+    font-size: 15px;
+    color: #7bb8ff;
+    text-decoration: underline;
+}
+
+.faits .source{
+    all: unset;
+    font-size: 20px !important;
+    margin-top: 5px;   
+    color: white;
+    margin-left: 1%;
+
+}
+
+.source a:hover {
+    cursor: pointer;
+}
+
+.yellow{
+    color: red;
+    font-style: bold;
+}
